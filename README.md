@@ -1,3 +1,5 @@
 # topic_modeling
+## preprocessing
+### word2Vec
 ## TF-IDF-> LDA
-## NMF
+## TF-IDF-> NMF
